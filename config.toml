@@ -1,8 +1,8 @@
-baseURL = "https://kevin-zou.github.io/quartz/"
+baseURL = "https://kevin-zou.github.io/quartz"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
